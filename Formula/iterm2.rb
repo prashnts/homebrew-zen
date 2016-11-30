@@ -1,8 +1,7 @@
 class Iterm2 < Formula
-  version "master"
   desc "Patched iTerm2 with configurable borders"
   homepage "https://www.iterm2.com/"
-  url "https://github.com/gnachman/iTerm2.git"
+  head "https://github.com/gnachman/iTerm2.git"
 
   option "with-padding", "Skip removing padding."
 
