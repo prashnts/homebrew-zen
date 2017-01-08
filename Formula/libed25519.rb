@@ -1,4 +1,4 @@
-class Libscrypt < Formula
+class LibEd25519 < Formula
   desc "Library for Ed25519"
   homepage "https://github.com/prashnts/ed25519"
   url "https://github.com/prashnts/ed25519/archive/0.1.0.tar.gz"
